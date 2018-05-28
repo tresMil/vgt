@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:-1,LA: A&E Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8300.ts
+
+#EXTINF:-1,LA: ADN 40
+http://leaderpro.pt:25461/live/asdf/asdf/8301.ts
+
+#EXTINF:-1,LA: AMC
+http://leaderpro.pt:25461/live/asdf/asdf/8302.ts
+
+#EXTINF:-1,LA: America peru
+http://leaderpro.pt:25461/live/asdf/asdf/8169.ts
+
+#EXTINF:-1,LA: America TV HD
+http://leaderpro.pt:25461/live/asdf/asdf/8166.ts
+
+#EXTINF:-1,LA: Animal Planet Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8183.ts
+
+#EXTINF:-1,LA: Antena 3 Internacional
+http://leaderpro.pt:25461/live/asdf/asdf/8167.ts
+
+#EXTINF:-1,LA: AprendeTV Canal 24
+http://leaderpro.pt:25461/live/asdf/asdf/8168.ts
+
+#EXTINF:-1,La: Bein Sport Ã‘
+http://leaderpro.pt:25461/live/asdf/asdf/8011.ts
+
+#EXTINF:-1,LA: Canal De Las Estrellas
+http://leaderpro.pt:25461/live/asdf/asdf/8256.ts
+
+#EXTINF:-1,LA: Canal Iberoamericano
+http://leaderpro.pt:25461/live/asdf/asdf/8240.ts
+
+#EXTINF:-1,La: De Pelicula
+http://leaderpro.pt:25461/live/asdf/asdf/7970.ts
+
+#EXTINF:-1,LA: DeporTV
+http://leaderpro.pt:25461/live/asdf/asdf/8192.ts
+
+#EXTINF:-1,LA: Discovery Science
+http://leaderpro.pt:25461/live/asdf/asdf/8193.ts
+
+#EXTINF:-1,LA: Discovery Theater
+http://leaderpro.pt:25461/live/asdf/asdf/8249.ts
+
+#EXTINF:-1,LA: Discovery Turbo
+http://leaderpro.pt:25461/live/asdf/asdf/8262.ts
+
+#EXTINF:-1,LA: Disney Channel
+http://leaderpro.pt:25461/live/asdf/asdf/8271.ts
+
+#EXTINF:-1,LA: Disney XD
+http://leaderpro.pt:25461/live/asdf/asdf/8266.ts
+
+#EXTINF:-1,LA: Distrito Comedia
+http://leaderpro.pt:25461/live/asdf/asdf/8209.ts
+
+#EXTINF:-1,La: DW EspaÃ±ol Alemania
+http://leaderpro.pt:25461/live/asdf/asdf/8003.ts
+
+#EXTINF:-1,LA: Ecuador TV
+http://leaderpro.pt:25461/live/asdf/asdf/8194.ts
+
+#EXTINF:-1,LA: El Financiero Bloomberg
+http://leaderpro.pt:25461/live/asdf/asdf/8250.ts
+
+#EXTINF:-1,La: El Gourmet
+http://leaderpro.pt:25461/live/asdf/asdf/7995.ts
+
+#EXTINF:-1,LA: El Pinguino TV Chile
+http://leaderpro.pt:25461/live/asdf/asdf/8196.ts
+
+#EXTINF:-1,LA: ESPN 2 Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8264.ts
+
+#EXTINF:-1,LA: ESPN 3 Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8298.ts
+
+#EXTINF:-1,LA: ESPN Deportes
+http://leaderpro.pt:25461/live/asdf/asdf/8268.ts
+
+#EXTINF:-1,LA: ESPN Deportes 720
+http://leaderpro.pt:25461/live/asdf/asdf/8200.ts
+
+#EXTINF:-1,LA: ESPN Deportes HD
+http://leaderpro.pt:25461/live/asdf/asdf/8201.ts
+
+#EXTINF:-1,LA: ESPN HD Arg
+http://leaderpro.pt:25461/live/asdf/asdf/7959.ts
+
+#EXTINF:-1,LA: ESPN Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8269.ts
+
+#EXTINF:-1,LA: Europa Europa
+http://leaderpro.pt:25461/live/asdf/asdf/8203.ts
+
+#EXTINF:-1,LA: Film Arts HD
+http://leaderpro.pt:25461/live/asdf/asdf/8207.ts
+
+#EXTINF:-1,LA: FilmZone
+http://leaderpro.pt:25461/live/asdf/asdf/8208.ts
+
+#EXTINF:-1,LA: Food Network
+http://leaderpro.pt:25461/live/asdf/asdf/8108.ts
+
+#EXTINF:-1,LA: Foro TV
+http://leaderpro.pt:25461/live/asdf/asdf/8247.ts
+
+#EXTINF:-1,LA: Fox 1
+http://leaderpro.pt:25461/live/asdf/asdf/8277.ts
+
+#EXTINF:-1,LA: Fox Comedy
+http://leaderpro.pt:25461/live/asdf/asdf/8210.ts
+
+#EXTINF:-1,LA: Fox Family
+http://leaderpro.pt:25461/live/asdf/asdf/8212.ts
+
+#EXTINF:-1,LA: Fox Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8282.ts
+
+#EXTINF:-1,LA: Fox Movies HD
+http://leaderpro.pt:25461/live/asdf/asdf/8213.ts
+
+#EXTINF:-1,LA: Fox Movies Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8172.ts
+
+#EXTINF:-1,LA: Fox Series
+http://leaderpro.pt:25461/live/asdf/asdf/8246.ts
+
+#EXTINF:-1,LA: Fox Sports 2 HD
+http://leaderpro.pt:25461/live/asdf/asdf/8217.ts
+
+#EXTINF:-1,LA: Fox Sports 2 Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8280.ts
+
+#EXTINF:-1,LA: Fox Sports Chile
+http://leaderpro.pt:25461/live/asdf/asdf/8222.ts
+
+#EXTINF:-1,LA: Fox Sports HD Arg
+http://leaderpro.pt:25461/live/asdf/asdf/7956.ts
+
+#EXTINF:-1,LA: Galavision
+http://leaderpro.pt:25461/live/asdf/asdf/8281.ts
+
+#EXTINF:-1,LA: Garage TV
+http://leaderpro.pt:25461/live/asdf/asdf/8224.ts
+
+#EXTINF:-1,LA: Golden
+http://leaderpro.pt:25461/live/asdf/asdf/8252.ts
+
+#EXTINF:-1,LA: Golperu
+http://leaderpro.pt:25461/live/asdf/asdf/8257.ts
+
+#EXTINF:-1,LA: H2 Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8289.ts
+
+#EXTINF:-1,LA: HBO 2 Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8235.ts
+
+#EXTINF:-1,LA: HBO Family
+http://leaderpro.pt:25461/live/asdf/asdf/8226.ts
+
+#EXTINF:-1,LA: HBO Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8286.ts
+
+#EXTINF:-1,LA: HBO Plus
+http://leaderpro.pt:25461/live/asdf/asdf/8288.ts
+
+#EXTINF:-1,LA: HBO Signature Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8293.ts
+
+#EXTINF:-1,LA: History Channel Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8292.ts
+
+#EXTINF:-1,LA: Hola TV
+http://leaderpro.pt:25461/live/asdf/asdf/8239.ts
+
+#EXTINF:-1,La: I Sat
+http://leaderpro.pt:25461/live/asdf/asdf/7969.ts
+
+#EXTINF:-1,LA: Investigation Discovery Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8297.ts
+
+#EXTINF:-1,LA: Lifetime
+http://leaderpro.pt:25461/live/asdf/asdf/8294.ts
+
+#EXTINF:-1,La: LOGOS BOLIVIA
+http://leaderpro.pt:25461/live/asdf/asdf/8005.ts
+
+#EXTINF:-1,LA: Mas Chic
+http://leaderpro.pt:25461/live/asdf/asdf/8109.ts
+
+#EXTINF:-1,LA: Max
+http://leaderpro.pt:25461/live/asdf/asdf/8162.ts
+
+#EXTINF:-1,LA: Max Prime
+http://leaderpro.pt:25461/live/asdf/asdf/8110.ts
+
+#EXTINF:-1,LA: Max Prime 2
+http://leaderpro.pt:25461/live/asdf/asdf/8111.ts
+
+#EXTINF:-1,LA: Max UP
+http://leaderpro.pt:25461/live/asdf/asdf/8112.ts
+
+#EXTINF:-1,La: MEGA Ch
+http://leaderpro.pt:25461/live/asdf/asdf/7992.ts
+
+#EXTINF:-1,La: Milenio TV
+http://leaderpro.pt:25461/live/asdf/asdf/8004.ts
+
+#EXTINF:-1,LA: MTV Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8234.ts
+
+#EXTINF:-1,LA: MTV Live
+http://leaderpro.pt:25461/live/asdf/asdf/8260.ts
+
+#EXTINF:-1,LA: MTV Music
+http://leaderpro.pt:25461/live/asdf/asdf/8233.ts
+
+#EXTINF:-1,La: MUSICTOP Argentina
+http://leaderpro.pt:25461/live/asdf/asdf/8002.ts
+
+#EXTINF:-1,LA: Nat Geo Mundo HD
+http://leaderpro.pt:25461/live/asdf/asdf/8157.ts
+
+#EXTINF:-1,LA: Nat Geo Wild HD
+http://leaderpro.pt:25461/live/asdf/asdf/8156.ts
+
+#EXTINF:-1,LA: Nat Geo Wild Latino America
+http://leaderpro.pt:25461/live/asdf/asdf/8125.ts
+
+#EXTINF:-1,LA: National Geographic Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8124.ts
+
+#EXTINF:-1,LA: NBC Universo HD
+http://leaderpro.pt:25461/live/asdf/asdf/8150.ts
+
+#EXTINF:-1,LA: Nick 2
+http://leaderpro.pt:25461/live/asdf/asdf/8148.ts
+
+#EXTINF:-1,La: NIU TV Ch
+http://leaderpro.pt:25461/live/asdf/asdf/7989.ts
+
+#EXTINF:-1,LA: NTN 24
+http://leaderpro.pt:25461/live/asdf/asdf/8146.ts
+
+#EXTINF:-1,LA: Ocho TV
+http://leaderpro.pt:25461/live/asdf/asdf/8145.ts
+
+#EXTINF:-1,LA: Panamericana(Peru)
+http://leaderpro.pt:25461/live/asdf/asdf/8143.ts
+
+#EXTINF:-1,LA: Paramount Channel
+http://leaderpro.pt:25461/live/asdf/asdf/8113.ts
+
+#EXTINF:-1,La: Power HD Ar
+http://leaderpro.pt:25461/live/asdf/asdf/7988.ts
+
+#EXTINF:-1,LA: PX Sports TV
+http://leaderpro.pt:25461/live/asdf/asdf/8140.ts
+
+#EXTINF:-1,LA: RTV 7
+http://leaderpro.pt:25461/live/asdf/asdf/8158.ts
+
+#EXTINF:-1,LA: Sony Channel
+http://leaderpro.pt:25461/live/asdf/asdf/8128.ts
+
+#EXTINF:-1,LA: Sony Channel HD
+http://leaderpro.pt:25461/live/asdf/asdf/8135.ts
+
+#EXTINF:-1,LA: SPACE
+http://leaderpro.pt:25461/live/asdf/asdf/8121.ts
+
+#EXTINF:-1,LA: Studio Universal
+http://leaderpro.pt:25461/live/asdf/asdf/8120.ts
+
+#EXTINF:-1,LA: Sun Channel Colombia
+http://leaderpro.pt:25461/live/asdf/asdf/8134.ts
+
+#EXTINF:-1,LA: Sundance TV
+http://leaderpro.pt:25461/live/asdf/asdf/8115.ts
+
+#EXTINF:-1,LA: SyFy
+http://leaderpro.pt:25461/live/asdf/asdf/8116.ts
+
+#EXTINF:-1,LA: TC
+http://leaderpro.pt:25461/live/asdf/asdf/7960.ts
+
+#EXTINF:-1,LA: TDN Deportes
+http://leaderpro.pt:25461/live/asdf/asdf/8118.ts
+
+#EXTINF:-1,LA: Tele Amazonas
+http://leaderpro.pt:25461/live/asdf/asdf/8093.ts
+
+#EXTINF:-1,LA: Tele Novelas
+http://leaderpro.pt:25461/live/asdf/asdf/8043.ts
+
+#EXTINF:-1,LA: Tele Uno
+http://leaderpro.pt:25461/live/asdf/asdf/8092.ts
+
+#EXTINF:-1,La: Tele Uno TV Costa Rica
+http://leaderpro.pt:25461/live/asdf/asdf/7980.ts
+
+#EXTINF:-1,LA: Teleantioquia
+http://leaderpro.pt:25461/live/asdf/asdf/8079.ts
+
+#EXTINF:-1,La: TELEANTOQUIA Co
+http://leaderpro.pt:25461/live/asdf/asdf/7986.ts
+
+#EXTINF:-1,La: TelecafÃ©
+http://leaderpro.pt:25461/live/asdf/asdf/7985.ts
+
+#EXTINF:-1,LA: Telefe HD
+http://leaderpro.pt:25461/live/asdf/asdf/8090.ts
+
+#EXTINF:-1,LA: Teleformula
+http://leaderpro.pt:25461/live/asdf/asdf/8107.ts
+
+#EXTINF:-1,LA: Telehit
+http://leaderpro.pt:25461/live/asdf/asdf/8106.ts
+
+#EXTINF:-1,La: Telemax HD Hermosillo MX
+http://leaderpro.pt:25461/live/asdf/asdf/7977.ts
+
+#EXTINF:-1,LA: Telemicro Canal 5 RD
+http://leaderpro.pt:25461/live/asdf/asdf/8105.ts
+
+#EXTINF:-1,LA: Telemundo Dallas HD
+http://leaderpro.pt:25461/live/asdf/asdf/8085.ts
+
+#EXTINF:-1,LA: Telemundo Fresno HD
+http://leaderpro.pt:25461/live/asdf/asdf/8049.ts
+
+#EXTINF:-1,LA: Telemundo HD
+http://leaderpro.pt:25461/live/asdf/asdf/8082.ts
+
+#EXTINF:-1,LA: Telemundo Las Vegas HD
+http://leaderpro.pt:25461/live/asdf/asdf/8080.ts
+
+#EXTINF:-1,LA: Telemundo Los Angeles HD
+http://leaderpro.pt:25461/live/asdf/asdf/8077.ts
+
+#EXTINF:-1,LA: Telemundo McAllen HD
+http://leaderpro.pt:25461/live/asdf/asdf/8084.ts
+
+#EXTINF:-1,LA: Telemundo Miami HD
+http://leaderpro.pt:25461/live/asdf/asdf/8076.ts
+
+#EXTINF:-1,LA: Telemundo New York HD
+http://leaderpro.pt:25461/live/asdf/asdf/8075.ts
+
+#EXTINF:-1,LA: Telemundo Philadelphia HD
+http://leaderpro.pt:25461/live/asdf/asdf/8074.ts
+
+#EXTINF:-1,LA: Telemundo Phoenix Arizona HD
+http://leaderpro.pt:25461/live/asdf/asdf/8073.ts
+
+#EXTINF:-1,LA: Telemundo San Antonio Texas HD
+http://leaderpro.pt:25461/live/asdf/asdf/8071.ts
+
+#EXTINF:-1,LA: Telemundo San Diego HD
+http://leaderpro.pt:25461/live/asdf/asdf/8072.ts
+
+#EXTINF:-1,LA: Telemundo San Fransisco HD
+http://leaderpro.pt:25461/live/asdf/asdf/8070.ts
+
+#EXTINF:-1,LA: Teletrak
+http://leaderpro.pt:25461/live/asdf/asdf/8047.ts
+
+#EXTINF:-1,La: Teleuniverso RD
+http://leaderpro.pt:25461/live/asdf/asdf/7964.ts
+
+#EXTINF:-1,La: Telpin Canal 2 Argentina
+http://leaderpro.pt:25461/live/asdf/asdf/7976.ts
+
+#EXTINF:-1,LA: TNT America Latina
+http://leaderpro.pt:25461/live/asdf/asdf/8119.ts
+
+#EXTINF:-1,LA: TNT HD
+http://leaderpro.pt:25461/live/asdf/asdf/8129.ts
+
+#EXTINF:-1,LA: TNT Series Latinoamerica
+http://leaderpro.pt:25461/live/asdf/asdf/8041.ts
+
+#EXTINF:-1,LA: Tooncast
+http://leaderpro.pt:25461/live/asdf/asdf/8046.ts
+
+#EXTINF:-1,LA: TV 5 Monde
+http://leaderpro.pt:25461/live/asdf/asdf/8062.ts
+
+#EXTINF:-1,LA: TV Agro
+http://leaderpro.pt:25461/live/asdf/asdf/8061.ts
+
+#EXTINF:-1,LA: TV Chile HD
+http://leaderpro.pt:25461/live/asdf/asdf/8060.ts
+
+#EXTINF:-1,LA: TV Mas Veracruz
+http://leaderpro.pt:25461/live/asdf/asdf/8058.ts
+
+#EXTINF:-1,LA: UESTV
+http://leaderpro.pt:25461/live/asdf/asdf/8102.ts
+
+#EXTINF:-1,LA: Unicanal
+http://leaderpro.pt:25461/live/asdf/asdf/8083.ts
+
+#EXTINF:-1,La: Unimas
+http://leaderpro.pt:25461/live/asdf/asdf/7975.ts
+
+#EXTINF:-1,LA: Univision
+http://leaderpro.pt:25461/live/asdf/asdf/8078.ts
+
+#EXTINF:-1,LA: Univision Deportes
+http://leaderpro.pt:25461/live/asdf/asdf/8025.ts
+
+#EXTINF:-1,LA: Univision Network
+http://leaderpro.pt:25461/live/asdf/asdf/8032.ts
